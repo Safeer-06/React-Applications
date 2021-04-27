@@ -1,0 +1,6 @@
+.listitem {
+  display: flex;
+}
+.deletebtn:hover {
+  color:red;
+}
